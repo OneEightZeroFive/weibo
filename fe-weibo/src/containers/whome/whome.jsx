@@ -12,8 +12,8 @@ class Whome extends Component {
             <div>
                 <Wheader />
                 <div className="list-contaniner">
-                    <Route path="/home/hot" component={Wchanel} />
-                    <Route path="/home/fresh" component={Wchanel} />
+                    <Route path="/home/hot" component={Wchanel}  />
+                    <Route path="/home/fresh" component={Wchanel}  />
                 </div>
             </div>
         );

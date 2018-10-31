@@ -7,7 +7,7 @@ class Wlist extends Component {
     constructor(props){
         super(props);
         this.props = props;
-        console.log(this.props.detail.mblog)
+        // console.log(this.props.detail.mblog)
     }
     render() {
         return (
@@ -18,11 +18,14 @@ class Wlist extends Component {
                             <div className="card-wrap">
                                 <header className="weibo-top m-box">
                                     <div className="m-avatar-box m-box-center"><a href="/profile/1700648435" className="m-img-box">
-                                        <img src="https://tva2.sinaimg.cn/crop.0.0.1000.1000.180/655dd5f3jw8ev7qcyp08ij20rs0rs77h.jpg" />
+                                        <img src={this.props.detail.mblog?this.props.detail.mblog.user.avatar_hd:""} />
                                         <i className="m-icon m-icon-bluev"></i></a></div>
                                     <div className="m-box-dir m-box-col m-box-center">
                                         <div className="m-text-box"><a href="/profile/1700648435" className="">
                                             <h3 className="m-text-cut">
+                                            {(function(self){
+                                                return self.props.detail.mblog?self.props.detail.mblog.user.screen_name:"";
+                                            })(this)}
                                     <i className="m-icon m-icon-vipl6"></i></h3>
                                         </a>
                                             <h4 className="m-text-cut"><span className="time">昨天 16:50</span> <span className="from">
@@ -41,10 +44,9 @@ class Wlist extends Component {
                                         <div className="weibo-text">
                                         {(function(self){
                                             //console.log(self.props.detail.mblog.text)
-                                            return self.props.detail.mblog?self.props.detail.mblog.text:""
+                                            // return self.props.detail.mblog?self.props.detail.mblog.text:""
+                                            return <div dangerouslySetInnerHTML={{__html: self.props.detail.mblog?self.props.detail.mblog.text:""}}></div>
                                         })(this)}
-                                        ...
-                                        <a href="/status/4300139516344613">全文</a>
                                         </div>
                                         <div data-v-4ecfaa36="">
                                             <div data-v-4ecfaa36="" className="weibo-media f-media">
@@ -89,10 +91,17 @@ class Wlist extends Component {
         );
     }
     changeRoute(){
-        console.log(this.props.route.history.push("/detail"))
+        console.log(this)
+        console.log(this.props.detail.mblog.id)
+        var id = this.props.detail.mblog.id;
+        this.props.route.history.push({
+            pathname:"/detail",
+            search:`?id=${id}`
+        })
+        // console.log(this.props.route.history.push("/detail"))
     }
     componentDidMount() {
-        console.log(this);
+        // console.log(this);
     }
 }
 

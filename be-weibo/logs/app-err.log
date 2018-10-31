@@ -1,0 +1,982 @@
+Error: Cannot find module 'jade'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at new View (/Users/eno/Documents/Wscats/1000phone/1805/be-weibo/node_modules/_express@4.16.4@express/lib/view.js:81:14)
+    at Function.render (/Users/eno/Documents/Wscats/1000phone/1805/be-weibo/node_modules/_express@4.16.4@express/lib/application.js:570:12)
+    at ServerResponse.render (/Users/eno/Documents/Wscats/1000phone/1805/be-weibo/node_modules/_express@4.16.4@express/lib/response.js:1008:7)
+    at /Users/eno/Documents/Wscats/1000phone/1805/be-weibo/app.js:40:7
+    at Layer.handle_error (/Users/eno/Documents/Wscats/1000phone/1805/be-weibo/node_modules/_express@4.16.4@express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/eno/Documents/Wscats/1000phone/1805/be-weibo/node_modules/_express@4.16.4@express/lib/router/index.js:315:13)
+Error: Cannot find module 'jade'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at new View (/Users/eno/Documents/Wscats/1000phone/1805/be-weibo/node_modules/_express@4.16.4@express/lib/view.js:81:14)
+    at Function.render (/Users/eno/Documents/Wscats/1000phone/1805/be-weibo/node_modules/_express@4.16.4@express/lib/application.js:570:12)
+    at ServerResponse.render (/Users/eno/Documents/Wscats/1000phone/1805/be-weibo/node_modules/_express@4.16.4@express/lib/response.js:1008:7)
+    at /Users/eno/Documents/Wscats/1000phone/1805/be-weibo/app.js:40:7
+    at Layer.handle_error (/Users/eno/Documents/Wscats/1000phone/1805/be-weibo/node_modules/_express@4.16.4@express/lib/router/layer.js:71:5)
+    at trim_prefix (/Users/eno/Documents/Wscats/1000phone/1805/be-weibo/node_modules/_express@4.16.4@express/lib/router/index.js:315:13)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:32
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:31
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:31
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:31
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:31
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:31
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:31
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:31
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:31
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:31
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:31
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:31
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:31
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:31
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:31
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)
+/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/routes/api.js:31
+    request(`https://m.weibo.cn/statuses/extend?id=`${id}`, (err, response, body) => {
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/eno/Documents/Wscats/1000phone/1805/weibo/be-weibo/app.js:9:17)

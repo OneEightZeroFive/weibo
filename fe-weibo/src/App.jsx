@@ -7,6 +7,8 @@ import Whome from './containers/whome/whome.jsx';
 import Wdetail from './containers/wdetail/wdetail.jsx';
 // react-router-dom提供了三个组件
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+// import createBrowserHistory from "history/createBrowserHistory";
+// const history = createBrowserHistory();
 class App extends Component {
   render() {
     return (
