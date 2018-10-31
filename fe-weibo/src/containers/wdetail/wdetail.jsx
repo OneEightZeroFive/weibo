@@ -3,9 +3,12 @@ import './wdetail.css';
 // react-router-dom提供了三个组件
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import axios from 'axios'
+import Wpop from "../../components/wpop/wpop.jsx"
+import { connect } from 'react-redux';
 class Wdetail extends Component {
   constructor(props) {
     super(props);
+    console.log(props);
     this.state = {
       text: ""
     }
@@ -18,7 +21,7 @@ class Wdetail extends Component {
           <div className="nav-main">
             <h4>微博正文</h4>
           </div>
-          <div className="nav-right"><i className="m-font m-font-dot-more"></i></div>
+          <div className="nav-right" onClick={this.props.showPop.bind(this,this.props)}><i className="m-font m-font-dot-more"></i></div>
         </div>
 
         <div className="main" style={{ marginTop: "2.75rem" }}>
@@ -83,6 +86,17 @@ class Wdetail extends Component {
             </article>
           </div>
         </div>
+        {(function(self){
+          if(self.props.isShowPop){
+            return <Wpop />
+          }else{
+            return;
+          }
+          console.log(self.props.isShowPop)
+        })(this)}
+        {/* <Wpop style={{
+          display:'none'
+        }} /> */}
       </div>
     );
   }
@@ -109,4 +123,21 @@ class Wdetail extends Component {
   }
 }
 
-export default Wdetail;
+export default connect(
+  // 把store数据拿到该组件的props里面
+  function (state) {
+    return state
+  },
+  // 把该组件的数据提交到store里面
+  function (dispatch) {
+    return {
+      showPop: (props,e) => {
+        console.log(props.isShowPop)
+        //可以触发多个
+        dispatch({
+          type:"showPop",
+          isShowPop:!props.isShowPop
+        })
+      }
+    }
+  })(Wdetail);

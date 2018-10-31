@@ -2895,3 +2895,5 @@ undefined
 [0mGET /api/extend?id=4300867387195967 [32m200 [0m188.150 ms - 1974[0m
 undefined
 [0mGET /api/extend?id=4300867387195967 [32m200 [0m220.928 ms - 1974[0m
+[0mGET / [36m304 [0m343.877 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.610 ms - -[0m
